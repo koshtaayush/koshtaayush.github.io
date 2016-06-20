@@ -1,0 +1,19 @@
+
+.maintext{
+	position:absolute; 
+	margin-top:100px; 
+	margin-left:450px;
+}
+
+.iconspanel{
+	margin-top:150px;
+	margin-left:450px;
+}
+
+.icons{
+	padding:10px;
+}
+
+#profilepic{
+	margin-left: 400px;
+}
